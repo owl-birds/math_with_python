@@ -1,0 +1,7 @@
+virtualenv env-dir-name
+env-dir-name/Scripts/activate
+deactivate
+
+// 
+in linux 
+source ./somethign
